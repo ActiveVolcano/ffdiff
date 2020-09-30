@@ -1,4 +1,11 @@
-﻿环境需求
+English
+- - - -
+Under construction...
+
+中文
+- - - -
+
+环境需求
 ========
 * 装有 Java 8 或以上版本，java 程序路径在 PATH 环境变量中。
 * 在 Linux 对命令文件设置执行权限：
